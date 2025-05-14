@@ -4,5 +4,5 @@ Calculates your biological age based on fitness stats. Height, weight, sex, vO2 
 
 ```
 pip install -r requirements.txt
-pyhton app/fitness_age_app.py
+streamlit run app/fitness_age_app.py
 ```
